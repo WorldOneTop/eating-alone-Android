@@ -1,2 +1,2 @@
 # eating-alone-Android
-혼밥여지도 Android + Spring 
+혼밥여지도 Android + Spring project
